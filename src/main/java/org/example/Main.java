@@ -4,7 +4,7 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
-        int x = 7;
+
         int y = 2;
         double result = (double)x/y;
         System.out.println(result);
