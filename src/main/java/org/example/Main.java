@@ -12,6 +12,7 @@ public class Main {
 
 
 
+
         String name = "Adam";
         short age = 22;
         float height = 1.94f;
